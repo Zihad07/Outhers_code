@@ -38,7 +38,7 @@ int countDivisor(int n)
         }
 
     }
-    sort(DivisorStore.begin(),DivisorStore.end());
+    sort(DivisorStore.begin(),DivisorStore.end());  //Here we sort the store of divisors assending order.
     return divisor;
 }
 int main()
