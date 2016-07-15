@@ -46,7 +46,7 @@ void Divisors()                  /// Divisors Sieve
 
 int main()
 {
-    Divisors();
+    Divisors();  //calling Divisors Sieve.
 
     int test;
     cout<<"Enter ur test case : ";
