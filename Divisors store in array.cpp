@@ -31,7 +31,7 @@ using namespace std;
 #define M 100000
 vector< int >divisors[1000006];
 
-/// O(nlogn).
+/// Diviosors functions Complexity O(nlogn).
 void Divisors()                  /// Divisors Sieve
 {
     for(int i=1;i<=M;i++)
